@@ -4,6 +4,6 @@ I'm an Android Developer working at Twitter. In my spare time I like to read, do
 
 
 - 🔭 I’m currently working ads @ Twitter
-- 💬 Ask me about modularising your Android app
+- 💬 Ask me about Gradle or modularisation
 - 📫 How to reach me: jordanfterry@gmail.com
 - 😄 Pronouns: He/Him
